@@ -1,0 +1,2961 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 9 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.276 841.89 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 16 0 R
+/F2 8 0 R
+/F2-0 17 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+/Annots [ 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 20 0 R ]
+>>
+endobj
+5 0 obj
+<<
+/Length 9705
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.901961 .878431 .960784 rg
+n 0 0 190 841.89 re f*
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 801.692 Tm (CONTACT) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 794.89 m 172 794.89 l S
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 775.151 Tm (+91 7010013569) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 759.651 Tm (syedalifathi24@gmail.com) Tj T* ET
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 742.151 Tm (LinkedIn) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 739.09 m 61.69 739.09 l S
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 726.651 Tm (GitHub) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 723.59 m 54.676 723.59 l S
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 680.692 Tm (SKILLS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 673.89 m 172 673.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 654.051 Tm (Programming) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 638.551 Tm (Python, SQL, R) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 612.551 Tm (Data Analysis) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 597.051 Tm (NumPy, Pandas, Data) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 581.551 Tm (Cleaning, EDA, Visualization,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 566.051 Tm (Statistics) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 540.051 Tm (BI & Tools) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 524.551 Tm (Power BI, Tableau,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 509.051 Tm (Excel \(Power Query & DAX\),) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 493.551 Tm (Streamlit) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 467.551 Tm (Machine Learning) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 452.051 Tm (Random Forest, Neural) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 436.551 Tm (Networks, LLMs) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 410.551 Tm (Databases) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 395.051 Tm (SQL, Cloud SQL) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 358.692 Tm (EDUCATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 351.89 m 172 351.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 332.051 Tm (B.E. CSE \(AI & ML\)) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 316.551 Tm (AMET University, Chennai) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 301.051 Tm (Aug 2022 \226 May 2026) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 285.551 Tm (CGPA 8.73 / 10) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 259.551 Tm (HSC \(12th\) \177 77.7%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 244.051 Tm (Christ The King Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 228.551 Tm (School) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 202.551 Tm (SSLC \(10th\) \177 72.6%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 187.051 Tm (St. Anne's Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 171.551 Tm (School) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 28 Tf 33.6 TL ET
+BT 1 0 0 1 216 779.986 Tm (Shakeel Navas Khan) Tj T* ET
+.168627 .478431 .470588 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 216 760.21 Tm (ASPIRING DATA ANALYST | PYTHON, SQL & R) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 725.633 Tm (PROFILE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 719.39 m 546 719.39 l S
+q
+1 0 0 1 216 641.89 cm
+q
+BT 1 0 0 1 0 60 Tm 2.21 Tw 14 TL /F1 10 Tf .266667 .266667 .266667 rg (Computer Science \(AI & ML\) graduate with an 8.73 CGPA, building a) Tj T* 0 Tw 3.472727 Tw (career in data analysis. Skilled in Python, SQL and R for cleaning,) Tj T* 0 Tw 4.21875 Tw (analysing and visualising data, with hands-on exposure to machine) Tj T* 0 Tw 4.705 Tw (learning. Completed a Data Scientist internship and co-authored a) Tj T* 0 Tw (research paper.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 616.633 Tm (EXPERIENCE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 610.39 m 546 610.39 l S
+q
+1 0 0 1 216 589.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Scientist Intern \(Online\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 577.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (NetworkGeek | Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 533.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 3.81 Tw (Worked through Python, NumPy and Pandas for data cleaning and) Tj T* 0 Tw 5.166667 Tw (visualization, then machine learning, neural networks, transformers,) Tj T* 0 Tw (generative AI and LLMs.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 508.633 Tm (PROJECTS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 502.39 m 546 502.39 l S
+q
+1 0 0 1 216 481.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Professional Survey Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 469.39 cm
+q
+.066667 .333333 .8 RG
+n 73.5909 2.0375 m 102.5325 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Power BI | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 439.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 3.813333 Tw (Built an interactive Power BI dashboard analysing salary, job roles,) Tj T* 0 Tw (programming languages and job satisfaction of 630 data professionals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 419.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Seattle Airbnb Analysis Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 407.39 cm
+q
+.066667 .333333 .8 RG
+n 69.4617 2.0375 m 98.4033 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Tableau | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 363.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.513333 Tw (Built a Tableau dashboard on Seattle Airbnb data \(Listings, Calendar,) Tj T* 0 Tw 2.272222 Tw (Reviews\) covering average price by bedrooms, listing counts, price by) Tj T* 0 Tw (zipcode and 2016 revenue.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 343.89 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .133333 .133333 .133333 rg (Weather Analytics & Forecasting Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 331.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (Python, Pandas, Random Forest, Streamlit | 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 287.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.275 Tw (Collected live weather data with the OpenWeatherMap API, performed) Tj T* 0 Tw -0.013636 Tw (EDA, trained a Random Forest model to forecast temperature, and built an) Tj T* 0 Tw (interactive Streamlit dashboard.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 262.633 Tm (PUBLICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 256.39 m 546 256.39 l S
+q
+1 0 0 1 216 235.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (ERP Management System Implementation in Educational Institutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 223.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (MSW Management Journal, Vol. 36, Issue 2, 2026 \(co-author\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 193.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 1.252857 Tw (Proposes an ERP framework unifying admissions, examinations, finance) Tj T* 0 Tw (and student services on a cloud SQL database.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 168.633 Tm (CERTIFICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 162.39 m 546 162.39 l S
+q
+1 0 0 1 216 139.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Scientist Internship) Tj /F1 9.6 Tf ( \226 NetworkGeek \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 124.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Web Development Internship) Tj /F1 9.6 Tf ( \226 Codebind Technologies \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 109.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Analysis with Python) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Dec 2022) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 94.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Visualization with R) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 79.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Predictive Modeling Fundamentals I) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Apr 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 64.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Statistics 101) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2026) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.276 841.89 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.066667 0.333333 0.8 rg
+0.066667 0.333333 0.8 RG
+BT
+/F1-0 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 22 711.151 Tm
+(Portfolio) Tj
+T*
+ET
+0.5 w
+n
+22 708.09 m
+60.514 708.09 l
+S
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057shakeel\055navas\055khan\055094b70263\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 22 736.69 61.69 751.69 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057ShakeelTheAnalyst)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 22 721.19 54.676 736.19 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057ShakeelTheAnalyst\057Data\055Professional\055Survey\055Dashboard)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 289.5909 430.73 318.5325 441.89 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057ShakeelTheAnalyst\057Airbnb\055Tableau\055dashboard)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 285.4617 368.73 314.4033 379.89 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 22 705.69 60.514 720.69 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057myportfolio\055puce\055six\05514\056vercel\056app\057)
+>>
+/P 4 0 R
+>>
+endobj
+15 0 obj
+[ 18 0 R 19 0 R ]
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Length 68397
+>>
+stream
+q
+q 1 0 0 1 0 0 cm 0 -0.11000000000001364 190 842.0 re W n
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.901961 .878431 .960784 rg
+n 0 0 190 841.89 re f*
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 801.692 Tm (CONTACT) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 794.89 m 172 794.89 l S
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 775.151 Tm (+91 7010013569) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 759.651 Tm (syedalifathi24@gmail.com) Tj T* ET
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 742.151 Tm (LinkedIn) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 739.09 m 61.69 739.09 l S
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 726.651 Tm (GitHub) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 723.59 m 54.676 723.59 l S
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 680.692 Tm (SKILLS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 673.89 m 172 673.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 654.051 Tm (Programming) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 638.551 Tm (Python, SQL, R) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 612.551 Tm (Data Analysis) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 597.051 Tm (NumPy, Pandas, Data) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 581.551 Tm (Cleaning, EDA, Visualization,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 566.051 Tm (Statistics) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 540.051 Tm (BI & Tools) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 524.551 Tm (Power BI, Tableau,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 509.051 Tm (Excel \(Power Query & DAX\),) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 493.551 Tm (Streamlit) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 467.551 Tm (Machine Learning) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 452.051 Tm (Random Forest, Neural) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 436.551 Tm (Networks, LLMs) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 410.551 Tm (Databases) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 395.051 Tm (SQL, Cloud SQL) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 358.692 Tm (EDUCATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 351.89 m 172 351.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 332.051 Tm (B.E. CSE \(AI & ML\)) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 316.551 Tm (AMET University, Chennai) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 301.051 Tm (Aug 2022 \226 May 2026) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 285.551 Tm (CGPA 8.73 / 10) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 259.551 Tm (HSC \(12th\) \177 77.7%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 244.051 Tm (Christ The King Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 228.551 Tm (School) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 202.551 Tm (SSLC \(10th\) \177 72.6%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 187.051 Tm (St. Anne's Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 171.551 Tm (School) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 28 Tf 33.6 TL ET
+BT 1 0 0 1 216 779.986 Tm (Shakeel Navas Khan) Tj T* ET
+.168627 .478431 .470588 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 216 760.21 Tm (ASPIRING DATA ANALYST | PYTHON, SQL & R) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 725.633 Tm (PROFILE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 719.39 m 546 719.39 l S
+q
+1 0 0 1 216 641.89 cm
+q
+BT 1 0 0 1 0 60 Tm 2.21 Tw 14 TL /F1 10 Tf .266667 .266667 .266667 rg (Computer Science \(AI & ML\) graduate with an 8.73 CGPA, building a) Tj T* 0 Tw 3.472727 Tw (career in data analysis. Skilled in Python, SQL and R for cleaning,) Tj T* 0 Tw 4.21875 Tw (analysing and visualising data, with hands-on exposure to machine) Tj T* 0 Tw 4.705 Tw (learning. Completed a Data Scientist internship and co-authored a) Tj T* 0 Tw (research paper.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 616.633 Tm (EXPERIENCE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 610.39 m 546 610.39 l S
+q
+1 0 0 1 216 589.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Scientist Intern \(Online\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 577.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (NetworkGeek | Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 533.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 3.81 Tw (Worked through Python, NumPy and Pandas for data cleaning and) Tj T* 0 Tw 5.166667 Tw (visualization, then machine learning, neural networks, transformers,) Tj T* 0 Tw (generative AI and LLMs.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 508.633 Tm (PROJECTS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 502.39 m 546 502.39 l S
+q
+1 0 0 1 216 481.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Professional Survey Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 469.39 cm
+q
+.066667 .333333 .8 RG
+n 73.5909 2.0375 m 102.5325 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Power BI | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 439.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 3.813333 Tw (Built an interactive Power BI dashboard analysing salary, job roles,) Tj T* 0 Tw (programming languages and job satisfaction of 630 data professionals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 419.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Seattle Airbnb Analysis Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 407.39 cm
+q
+.066667 .333333 .8 RG
+n 69.4617 2.0375 m 98.4033 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Tableau | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 363.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.513333 Tw (Built a Tableau dashboard on Seattle Airbnb data \(Listings, Calendar,) Tj T* 0 Tw 2.272222 Tw (Reviews\) covering average price by bedrooms, listing counts, price by) Tj T* 0 Tw (zipcode and 2016 revenue.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 343.89 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .133333 .133333 .133333 rg (Weather Analytics & Forecasting Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 331.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (Python, Pandas, Random Forest, Streamlit | 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 287.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.275 Tw (Collected live weather data with the OpenWeatherMap API, performed) Tj T* 0 Tw -0.013636 Tw (EDA, trained a Random Forest model to forecast temperature, and built an) Tj T* 0 Tw (interactive Streamlit dashboard.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 262.633 Tm (PUBLICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 256.39 m 546 256.39 l S
+q
+1 0 0 1 216 235.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (ERP Management System Implementation in Educational Institutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 223.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (MSW Management Journal, Vol. 36, Issue 2, 2026 \(co-author\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 193.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 1.252857 Tw (Proposes an ERP framework unifying admissions, examinations, finance) Tj T* 0 Tw (and student services on a cloud SQL database.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 168.633 Tm (CERTIFICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 162.39 m 546 162.39 l S
+q
+1 0 0 1 216 139.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Scientist Internship) Tj /F1 9.6 Tf ( \226 NetworkGeek \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 124.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Web Development Internship) Tj /F1 9.6 Tf ( \226 Codebind Technologies \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 109.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Analysis with Python) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Dec 2022) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 94.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Visualization with R) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 79.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Predictive Modeling Fundamentals I) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Apr 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 64.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Statistics 101) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2026) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.276 841.89 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.066667 0.333333 0.8 rg
+0.066667 0.333333 0.8 RG
+BT
+/F1-0 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 22 711.151 Tm
+(Portfolio) Tj
+T*
+ET
+0.5 w
+n
+22 708.09 m
+60.514 708.09 l
+S
+Q
+
+
+Q
+q 1 0 0 1 0 0 cm 190 634.89 405.27599999999995 207.0 re W n
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.901961 .878431 .960784 rg
+n 0 0 190 841.89 re f*
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 801.692 Tm (CONTACT) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 794.89 m 172 794.89 l S
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 775.151 Tm (+91 7010013569) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 759.651 Tm (syedalifathi24@gmail.com) Tj T* ET
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 742.151 Tm (LinkedIn) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 739.09 m 61.69 739.09 l S
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 726.651 Tm (GitHub) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 723.59 m 54.676 723.59 l S
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 680.692 Tm (SKILLS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 673.89 m 172 673.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 654.051 Tm (Programming) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 638.551 Tm (Python, SQL, R) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 612.551 Tm (Data Analysis) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 597.051 Tm (NumPy, Pandas, Data) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 581.551 Tm (Cleaning, EDA, Visualization,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 566.051 Tm (Statistics) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 540.051 Tm (BI & Tools) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 524.551 Tm (Power BI, Tableau,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 509.051 Tm (Excel \(Power Query & DAX\),) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 493.551 Tm (Streamlit) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 467.551 Tm (Machine Learning) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 452.051 Tm (Random Forest, Neural) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 436.551 Tm (Networks, LLMs) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 410.551 Tm (Databases) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 395.051 Tm (SQL, Cloud SQL) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 358.692 Tm (EDUCATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 351.89 m 172 351.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 332.051 Tm (B.E. CSE \(AI & ML\)) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 316.551 Tm (AMET University, Chennai) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 301.051 Tm (Aug 2022 \226 May 2026) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 285.551 Tm (CGPA 8.73 / 10) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 259.551 Tm (HSC \(12th\) \177 77.7%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 244.051 Tm (Christ The King Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 228.551 Tm (School) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 202.551 Tm (SSLC \(10th\) \177 72.6%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 187.051 Tm (St. Anne's Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 171.551 Tm (School) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 28 Tf 33.6 TL ET
+BT 1 0 0 1 216 779.986 Tm (Shakeel Navas Khan) Tj T* ET
+.168627 .478431 .470588 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 216 760.21 Tm (ASPIRING DATA ANALYST | PYTHON, SQL & R) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 725.633 Tm (PROFILE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 719.39 m 546 719.39 l S
+q
+1 0 0 1 216 641.89 cm
+q
+BT 1 0 0 1 0 60 Tm 2.21 Tw 14 TL /F1 10 Tf .266667 .266667 .266667 rg (Computer Science \(AI & ML\) graduate with an 8.73 CGPA, building a) Tj T* 0 Tw 3.472727 Tw (career in data analysis. Skilled in Python, SQL and R for cleaning,) Tj T* 0 Tw 4.21875 Tw (analysing and visualising data, with hands-on exposure to machine) Tj T* 0 Tw 4.705 Tw (learning. Completed a Data Scientist internship and co-authored a) Tj T* 0 Tw (research paper.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 616.633 Tm (EXPERIENCE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 610.39 m 546 610.39 l S
+q
+1 0 0 1 216 589.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Scientist Intern \(Online\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 577.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (NetworkGeek | Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 533.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 3.81 Tw (Worked through Python, NumPy and Pandas for data cleaning and) Tj T* 0 Tw 5.166667 Tw (visualization, then machine learning, neural networks, transformers,) Tj T* 0 Tw (generative AI and LLMs.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 508.633 Tm (PROJECTS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 502.39 m 546 502.39 l S
+q
+1 0 0 1 216 481.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Professional Survey Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 469.39 cm
+q
+.066667 .333333 .8 RG
+n 73.5909 2.0375 m 102.5325 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Power BI | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 439.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 3.813333 Tw (Built an interactive Power BI dashboard analysing salary, job roles,) Tj T* 0 Tw (programming languages and job satisfaction of 630 data professionals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 419.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Seattle Airbnb Analysis Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 407.39 cm
+q
+.066667 .333333 .8 RG
+n 69.4617 2.0375 m 98.4033 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Tableau | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 363.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.513333 Tw (Built a Tableau dashboard on Seattle Airbnb data \(Listings, Calendar,) Tj T* 0 Tw 2.272222 Tw (Reviews\) covering average price by bedrooms, listing counts, price by) Tj T* 0 Tw (zipcode and 2016 revenue.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 343.89 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .133333 .133333 .133333 rg (Weather Analytics & Forecasting Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 331.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (Python, Pandas, Random Forest, Streamlit | 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 287.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.275 Tw (Collected live weather data with the OpenWeatherMap API, performed) Tj T* 0 Tw -0.013636 Tw (EDA, trained a Random Forest model to forecast temperature, and built an) Tj T* 0 Tw (interactive Streamlit dashboard.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 262.633 Tm (PUBLICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 256.39 m 546 256.39 l S
+q
+1 0 0 1 216 235.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (ERP Management System Implementation in Educational Institutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 223.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (MSW Management Journal, Vol. 36, Issue 2, 2026 \(co-author\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 193.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 1.252857 Tw (Proposes an ERP framework unifying admissions, examinations, finance) Tj T* 0 Tw (and student services on a cloud SQL database.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 168.633 Tm (CERTIFICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 162.39 m 546 162.39 l S
+q
+1 0 0 1 216 139.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Scientist Internship) Tj /F1 9.6 Tf ( \226 NetworkGeek \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 124.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Web Development Internship) Tj /F1 9.6 Tf ( \226 Codebind Technologies \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 109.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Analysis with Python) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Dec 2022) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 94.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Visualization with R) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 79.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Predictive Modeling Fundamentals I) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Apr 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 64.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Statistics 101) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2026) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.276 841.89 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.066667 0.333333 0.8 rg
+0.066667 0.333333 0.8 RG
+BT
+/F1-0 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 22 711.151 Tm
+(Portfolio) Tj
+T*
+ET
+0.5 w
+n
+22 708.09 m
+60.514 708.09 l
+S
+Q
+
+
+Q
+q 1 0 0 1 0 4 cm 190 607.89 405.27599999999995 27.0 re W n
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.901961 .878431 .960784 rg
+n 0 0 190 841.89 re f*
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 801.692 Tm (CONTACT) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 794.89 m 172 794.89 l S
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 775.151 Tm (+91 7010013569) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 759.651 Tm (syedalifathi24@gmail.com) Tj T* ET
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 742.151 Tm (LinkedIn) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 739.09 m 61.69 739.09 l S
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 726.651 Tm (GitHub) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 723.59 m 54.676 723.59 l S
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 680.692 Tm (SKILLS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 673.89 m 172 673.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 654.051 Tm (Programming) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 638.551 Tm (Python, SQL, R) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 612.551 Tm (Data Analysis) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 597.051 Tm (NumPy, Pandas, Data) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 581.551 Tm (Cleaning, EDA, Visualization,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 566.051 Tm (Statistics) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 540.051 Tm (BI & Tools) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 524.551 Tm (Power BI, Tableau,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 509.051 Tm (Excel \(Power Query & DAX\),) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 493.551 Tm (Streamlit) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 467.551 Tm (Machine Learning) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 452.051 Tm (Random Forest, Neural) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 436.551 Tm (Networks, LLMs) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 410.551 Tm (Databases) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 395.051 Tm (SQL, Cloud SQL) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 358.692 Tm (EDUCATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 351.89 m 172 351.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 332.051 Tm (B.E. CSE \(AI & ML\)) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 316.551 Tm (AMET University, Chennai) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 301.051 Tm (Aug 2022 \226 May 2026) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 285.551 Tm (CGPA 8.73 / 10) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 259.551 Tm (HSC \(12th\) \177 77.7%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 244.051 Tm (Christ The King Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 228.551 Tm (School) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 202.551 Tm (SSLC \(10th\) \177 72.6%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 187.051 Tm (St. Anne's Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 171.551 Tm (School) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 28 Tf 33.6 TL ET
+BT 1 0 0 1 216 779.986 Tm (Shakeel Navas Khan) Tj T* ET
+.168627 .478431 .470588 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 216 760.21 Tm (ASPIRING DATA ANALYST | PYTHON, SQL & R) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 725.633 Tm (PROFILE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 719.39 m 546 719.39 l S
+q
+1 0 0 1 216 641.89 cm
+q
+BT 1 0 0 1 0 60 Tm 2.21 Tw 14 TL /F1 10 Tf .266667 .266667 .266667 rg (Computer Science \(AI & ML\) graduate with an 8.73 CGPA, building a) Tj T* 0 Tw 3.472727 Tw (career in data analysis. Skilled in Python, SQL and R for cleaning,) Tj T* 0 Tw 4.21875 Tw (analysing and visualising data, with hands-on exposure to machine) Tj T* 0 Tw 4.705 Tw (learning. Completed a Data Scientist internship and co-authored a) Tj T* 0 Tw (research paper.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 616.633 Tm (EXPERIENCE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 610.39 m 546 610.39 l S
+q
+1 0 0 1 216 589.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Scientist Intern \(Online\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 577.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (NetworkGeek | Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 533.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 3.81 Tw (Worked through Python, NumPy and Pandas for data cleaning and) Tj T* 0 Tw 5.166667 Tw (visualization, then machine learning, neural networks, transformers,) Tj T* 0 Tw (generative AI and LLMs.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 508.633 Tm (PROJECTS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 502.39 m 546 502.39 l S
+q
+1 0 0 1 216 481.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Professional Survey Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 469.39 cm
+q
+.066667 .333333 .8 RG
+n 73.5909 2.0375 m 102.5325 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Power BI | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 439.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 3.813333 Tw (Built an interactive Power BI dashboard analysing salary, job roles,) Tj T* 0 Tw (programming languages and job satisfaction of 630 data professionals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 419.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Seattle Airbnb Analysis Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 407.39 cm
+q
+.066667 .333333 .8 RG
+n 69.4617 2.0375 m 98.4033 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Tableau | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 363.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.513333 Tw (Built a Tableau dashboard on Seattle Airbnb data \(Listings, Calendar,) Tj T* 0 Tw 2.272222 Tw (Reviews\) covering average price by bedrooms, listing counts, price by) Tj T* 0 Tw (zipcode and 2016 revenue.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 343.89 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .133333 .133333 .133333 rg (Weather Analytics & Forecasting Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 331.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (Python, Pandas, Random Forest, Streamlit | 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 287.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.275 Tw (Collected live weather data with the OpenWeatherMap API, performed) Tj T* 0 Tw -0.013636 Tw (EDA, trained a Random Forest model to forecast temperature, and built an) Tj T* 0 Tw (interactive Streamlit dashboard.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 262.633 Tm (PUBLICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 256.39 m 546 256.39 l S
+q
+1 0 0 1 216 235.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (ERP Management System Implementation in Educational Institutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 223.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (MSW Management Journal, Vol. 36, Issue 2, 2026 \(co-author\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 193.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 1.252857 Tw (Proposes an ERP framework unifying admissions, examinations, finance) Tj T* 0 Tw (and student services on a cloud SQL database.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 168.633 Tm (CERTIFICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 162.39 m 546 162.39 l S
+q
+1 0 0 1 216 139.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Scientist Internship) Tj /F1 9.6 Tf ( \226 NetworkGeek \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 124.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Web Development Internship) Tj /F1 9.6 Tf ( \226 Codebind Technologies \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 109.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Analysis with Python) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Dec 2022) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 94.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Visualization with R) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 79.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Predictive Modeling Fundamentals I) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Apr 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 64.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Statistics 101) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2026) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.276 841.89 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.066667 0.333333 0.8 rg
+0.066667 0.333333 0.8 RG
+BT
+/F1-0 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 22 711.151 Tm
+(Portfolio) Tj
+T*
+ET
+0.5 w
+n
+22 708.09 m
+60.514 708.09 l
+S
+Q
+
+
+Q
+q 1 0 0 1 0 -44 cm 190 529.89 405.27599999999995 78.0 re W n
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.901961 .878431 .960784 rg
+n 0 0 190 841.89 re f*
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 801.692 Tm (CONTACT) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 794.89 m 172 794.89 l S
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 775.151 Tm (+91 7010013569) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 759.651 Tm (syedalifathi24@gmail.com) Tj T* ET
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 742.151 Tm (LinkedIn) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 739.09 m 61.69 739.09 l S
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 726.651 Tm (GitHub) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 723.59 m 54.676 723.59 l S
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 680.692 Tm (SKILLS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 673.89 m 172 673.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 654.051 Tm (Programming) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 638.551 Tm (Python, SQL, R) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 612.551 Tm (Data Analysis) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 597.051 Tm (NumPy, Pandas, Data) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 581.551 Tm (Cleaning, EDA, Visualization,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 566.051 Tm (Statistics) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 540.051 Tm (BI & Tools) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 524.551 Tm (Power BI, Tableau,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 509.051 Tm (Excel \(Power Query & DAX\),) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 493.551 Tm (Streamlit) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 467.551 Tm (Machine Learning) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 452.051 Tm (Random Forest, Neural) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 436.551 Tm (Networks, LLMs) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 410.551 Tm (Databases) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 395.051 Tm (SQL, Cloud SQL) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 358.692 Tm (EDUCATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 351.89 m 172 351.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 332.051 Tm (B.E. CSE \(AI & ML\)) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 316.551 Tm (AMET University, Chennai) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 301.051 Tm (Aug 2022 \226 May 2026) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 285.551 Tm (CGPA 8.73 / 10) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 259.551 Tm (HSC \(12th\) \177 77.7%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 244.051 Tm (Christ The King Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 228.551 Tm (School) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 202.551 Tm (SSLC \(10th\) \177 72.6%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 187.051 Tm (St. Anne's Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 171.551 Tm (School) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 28 Tf 33.6 TL ET
+BT 1 0 0 1 216 779.986 Tm (Shakeel Navas Khan) Tj T* ET
+.168627 .478431 .470588 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 216 760.21 Tm (ASPIRING DATA ANALYST | PYTHON, SQL & R) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 725.633 Tm (PROFILE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 719.39 m 546 719.39 l S
+q
+1 0 0 1 216 641.89 cm
+q
+BT 1 0 0 1 0 60 Tm 2.21 Tw 14 TL /F1 10 Tf .266667 .266667 .266667 rg (Computer Science \(AI & ML\) graduate with an 8.73 CGPA, building a) Tj T* 0 Tw 3.472727 Tw (career in data analysis. Skilled in Python, SQL and R for cleaning,) Tj T* 0 Tw 4.21875 Tw (analysing and visualising data, with hands-on exposure to machine) Tj T* 0 Tw 4.705 Tw (learning. Completed a Data Scientist internship and co-authored a) Tj T* 0 Tw (research paper.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 616.633 Tm (EXPERIENCE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 610.39 m 546 610.39 l S
+q
+1 0 0 1 216 589.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Scientist Intern \(Online\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 577.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (NetworkGeek | Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 533.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 3.81 Tw (Worked through Python, NumPy and Pandas for data cleaning and) Tj T* 0 Tw 5.166667 Tw (visualization, then machine learning, neural networks, transformers,) Tj T* 0 Tw (generative AI and LLMs.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 508.633 Tm (PROJECTS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 502.39 m 546 502.39 l S
+q
+1 0 0 1 216 481.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Professional Survey Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 469.39 cm
+q
+.066667 .333333 .8 RG
+n 73.5909 2.0375 m 102.5325 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Power BI | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 439.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 3.813333 Tw (Built an interactive Power BI dashboard analysing salary, job roles,) Tj T* 0 Tw (programming languages and job satisfaction of 630 data professionals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 419.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Seattle Airbnb Analysis Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 407.39 cm
+q
+.066667 .333333 .8 RG
+n 69.4617 2.0375 m 98.4033 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Tableau | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 363.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.513333 Tw (Built a Tableau dashboard on Seattle Airbnb data \(Listings, Calendar,) Tj T* 0 Tw 2.272222 Tw (Reviews\) covering average price by bedrooms, listing counts, price by) Tj T* 0 Tw (zipcode and 2016 revenue.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 343.89 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .133333 .133333 .133333 rg (Weather Analytics & Forecasting Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 331.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (Python, Pandas, Random Forest, Streamlit | 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 287.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.275 Tw (Collected live weather data with the OpenWeatherMap API, performed) Tj T* 0 Tw -0.013636 Tw (EDA, trained a Random Forest model to forecast temperature, and built an) Tj T* 0 Tw (interactive Streamlit dashboard.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 262.633 Tm (PUBLICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 256.39 m 546 256.39 l S
+q
+1 0 0 1 216 235.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (ERP Management System Implementation in Educational Institutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 223.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (MSW Management Journal, Vol. 36, Issue 2, 2026 \(co-author\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 193.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 1.252857 Tw (Proposes an ERP framework unifying admissions, examinations, finance) Tj T* 0 Tw (and student services on a cloud SQL database.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 168.633 Tm (CERTIFICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 162.39 m 546 162.39 l S
+q
+1 0 0 1 216 139.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Scientist Internship) Tj /F1 9.6 Tf ( \226 NetworkGeek \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 124.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Web Development Internship) Tj /F1 9.6 Tf ( \226 Codebind Technologies \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 109.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Analysis with Python) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Dec 2022) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 94.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Visualization with R) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 79.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Predictive Modeling Fundamentals I) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Apr 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 64.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Statistics 101) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2026) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.276 841.89 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.066667 0.333333 0.8 rg
+0.066667 0.333333 0.8 RG
+BT
+/F1-0 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 22 711.151 Tm
+(Portfolio) Tj
+T*
+ET
+0.5 w
+n
+22 708.09 m
+60.514 708.09 l
+S
+Q
+
+
+Q
+q 1 0 0 1 0 -40 cm 190 283.89 405.27599999999995 246.0 re W n
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.901961 .878431 .960784 rg
+n 0 0 190 841.89 re f*
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 801.692 Tm (CONTACT) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 794.89 m 172 794.89 l S
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 775.151 Tm (+91 7010013569) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 759.651 Tm (syedalifathi24@gmail.com) Tj T* ET
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 742.151 Tm (LinkedIn) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 739.09 m 61.69 739.09 l S
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 726.651 Tm (GitHub) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 723.59 m 54.676 723.59 l S
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 680.692 Tm (SKILLS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 673.89 m 172 673.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 654.051 Tm (Programming) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 638.551 Tm (Python, SQL, R) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 612.551 Tm (Data Analysis) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 597.051 Tm (NumPy, Pandas, Data) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 581.551 Tm (Cleaning, EDA, Visualization,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 566.051 Tm (Statistics) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 540.051 Tm (BI & Tools) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 524.551 Tm (Power BI, Tableau,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 509.051 Tm (Excel \(Power Query & DAX\),) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 493.551 Tm (Streamlit) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 467.551 Tm (Machine Learning) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 452.051 Tm (Random Forest, Neural) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 436.551 Tm (Networks, LLMs) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 410.551 Tm (Databases) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 395.051 Tm (SQL, Cloud SQL) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 358.692 Tm (EDUCATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 351.89 m 172 351.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 332.051 Tm (B.E. CSE \(AI & ML\)) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 316.551 Tm (AMET University, Chennai) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 301.051 Tm (Aug 2022 \226 May 2026) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 285.551 Tm (CGPA 8.73 / 10) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 259.551 Tm (HSC \(12th\) \177 77.7%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 244.051 Tm (Christ The King Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 228.551 Tm (School) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 202.551 Tm (SSLC \(10th\) \177 72.6%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 187.051 Tm (St. Anne's Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 171.551 Tm (School) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 28 Tf 33.6 TL ET
+BT 1 0 0 1 216 779.986 Tm (Shakeel Navas Khan) Tj T* ET
+.168627 .478431 .470588 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 216 760.21 Tm (ASPIRING DATA ANALYST | PYTHON, SQL & R) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 725.633 Tm (PROFILE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 719.39 m 546 719.39 l S
+q
+1 0 0 1 216 641.89 cm
+q
+BT 1 0 0 1 0 60 Tm 2.21 Tw 14 TL /F1 10 Tf .266667 .266667 .266667 rg (Computer Science \(AI & ML\) graduate with an 8.73 CGPA, building a) Tj T* 0 Tw 3.472727 Tw (career in data analysis. Skilled in Python, SQL and R for cleaning,) Tj T* 0 Tw 4.21875 Tw (analysing and visualising data, with hands-on exposure to machine) Tj T* 0 Tw 4.705 Tw (learning. Completed a Data Scientist internship and co-authored a) Tj T* 0 Tw (research paper.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 616.633 Tm (EXPERIENCE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 610.39 m 546 610.39 l S
+q
+1 0 0 1 216 589.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Scientist Intern \(Online\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 577.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (NetworkGeek | Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 533.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 3.81 Tw (Worked through Python, NumPy and Pandas for data cleaning and) Tj T* 0 Tw 5.166667 Tw (visualization, then machine learning, neural networks, transformers,) Tj T* 0 Tw (generative AI and LLMs.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 508.633 Tm (PROJECTS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 502.39 m 546 502.39 l S
+q
+1 0 0 1 216 481.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Professional Survey Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 469.39 cm
+q
+.066667 .333333 .8 RG
+n 73.5909 2.0375 m 102.5325 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Power BI | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 439.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 3.813333 Tw (Built an interactive Power BI dashboard analysing salary, job roles,) Tj T* 0 Tw (programming languages and job satisfaction of 630 data professionals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 419.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Seattle Airbnb Analysis Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 407.39 cm
+q
+.066667 .333333 .8 RG
+n 69.4617 2.0375 m 98.4033 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Tableau | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 363.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.513333 Tw (Built a Tableau dashboard on Seattle Airbnb data \(Listings, Calendar,) Tj T* 0 Tw 2.272222 Tw (Reviews\) covering average price by bedrooms, listing counts, price by) Tj T* 0 Tw (zipcode and 2016 revenue.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 343.89 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .133333 .133333 .133333 rg (Weather Analytics & Forecasting Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 331.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (Python, Pandas, Random Forest, Streamlit | 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 287.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.275 Tw (Collected live weather data with the OpenWeatherMap API, performed) Tj T* 0 Tw -0.013636 Tw (EDA, trained a Random Forest model to forecast temperature, and built an) Tj T* 0 Tw (interactive Streamlit dashboard.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 262.633 Tm (PUBLICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 256.39 m 546 256.39 l S
+q
+1 0 0 1 216 235.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (ERP Management System Implementation in Educational Institutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 223.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (MSW Management Journal, Vol. 36, Issue 2, 2026 \(co-author\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 193.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 1.252857 Tw (Proposes an ERP framework unifying admissions, examinations, finance) Tj T* 0 Tw (and student services on a cloud SQL database.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 168.633 Tm (CERTIFICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 162.39 m 546 162.39 l S
+q
+1 0 0 1 216 139.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Scientist Internship) Tj /F1 9.6 Tf ( \226 NetworkGeek \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 124.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Web Development Internship) Tj /F1 9.6 Tf ( \226 Codebind Technologies \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 109.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Analysis with Python) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Dec 2022) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 94.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Visualization with R) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 79.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Predictive Modeling Fundamentals I) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Apr 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 64.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Statistics 101) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2026) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.276 841.89 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.066667 0.333333 0.8 rg
+0.066667 0.333333 0.8 RG
+BT
+/F1-0 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 22 711.151 Tm
+(Portfolio) Tj
+T*
+ET
+0.5 w
+n
+22 708.09 m
+60.514 708.09 l
+S
+Q
+
+
+Q
+q 1 0 0 1 0 -36 cm 190 189.89 405.27599999999995 94.0 re W n
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.901961 .878431 .960784 rg
+n 0 0 190 841.89 re f*
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 801.692 Tm (CONTACT) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 794.89 m 172 794.89 l S
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 775.151 Tm (+91 7010013569) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 759.651 Tm (syedalifathi24@gmail.com) Tj T* ET
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 742.151 Tm (LinkedIn) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 739.09 m 61.69 739.09 l S
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 726.651 Tm (GitHub) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 723.59 m 54.676 723.59 l S
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 680.692 Tm (SKILLS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 673.89 m 172 673.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 654.051 Tm (Programming) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 638.551 Tm (Python, SQL, R) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 612.551 Tm (Data Analysis) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 597.051 Tm (NumPy, Pandas, Data) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 581.551 Tm (Cleaning, EDA, Visualization,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 566.051 Tm (Statistics) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 540.051 Tm (BI & Tools) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 524.551 Tm (Power BI, Tableau,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 509.051 Tm (Excel \(Power Query & DAX\),) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 493.551 Tm (Streamlit) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 467.551 Tm (Machine Learning) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 452.051 Tm (Random Forest, Neural) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 436.551 Tm (Networks, LLMs) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 410.551 Tm (Databases) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 395.051 Tm (SQL, Cloud SQL) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 358.692 Tm (EDUCATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 351.89 m 172 351.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 332.051 Tm (B.E. CSE \(AI & ML\)) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 316.551 Tm (AMET University, Chennai) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 301.051 Tm (Aug 2022 \226 May 2026) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 285.551 Tm (CGPA 8.73 / 10) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 259.551 Tm (HSC \(12th\) \177 77.7%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 244.051 Tm (Christ The King Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 228.551 Tm (School) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 202.551 Tm (SSLC \(10th\) \177 72.6%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 187.051 Tm (St. Anne's Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 171.551 Tm (School) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 28 Tf 33.6 TL ET
+BT 1 0 0 1 216 779.986 Tm (Shakeel Navas Khan) Tj T* ET
+.168627 .478431 .470588 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 216 760.21 Tm (ASPIRING DATA ANALYST | PYTHON, SQL & R) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 725.633 Tm (PROFILE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 719.39 m 546 719.39 l S
+q
+1 0 0 1 216 641.89 cm
+q
+BT 1 0 0 1 0 60 Tm 2.21 Tw 14 TL /F1 10 Tf .266667 .266667 .266667 rg (Computer Science \(AI & ML\) graduate with an 8.73 CGPA, building a) Tj T* 0 Tw 3.472727 Tw (career in data analysis. Skilled in Python, SQL and R for cleaning,) Tj T* 0 Tw 4.21875 Tw (analysing and visualising data, with hands-on exposure to machine) Tj T* 0 Tw 4.705 Tw (learning. Completed a Data Scientist internship and co-authored a) Tj T* 0 Tw (research paper.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 616.633 Tm (EXPERIENCE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 610.39 m 546 610.39 l S
+q
+1 0 0 1 216 589.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Scientist Intern \(Online\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 577.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (NetworkGeek | Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 533.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 3.81 Tw (Worked through Python, NumPy and Pandas for data cleaning and) Tj T* 0 Tw 5.166667 Tw (visualization, then machine learning, neural networks, transformers,) Tj T* 0 Tw (generative AI and LLMs.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 508.633 Tm (PROJECTS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 502.39 m 546 502.39 l S
+q
+1 0 0 1 216 481.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Professional Survey Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 469.39 cm
+q
+.066667 .333333 .8 RG
+n 73.5909 2.0375 m 102.5325 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Power BI | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 439.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 3.813333 Tw (Built an interactive Power BI dashboard analysing salary, job roles,) Tj T* 0 Tw (programming languages and job satisfaction of 630 data professionals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 419.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Seattle Airbnb Analysis Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 407.39 cm
+q
+.066667 .333333 .8 RG
+n 69.4617 2.0375 m 98.4033 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Tableau | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 363.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.513333 Tw (Built a Tableau dashboard on Seattle Airbnb data \(Listings, Calendar,) Tj T* 0 Tw 2.272222 Tw (Reviews\) covering average price by bedrooms, listing counts, price by) Tj T* 0 Tw (zipcode and 2016 revenue.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 343.89 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .133333 .133333 .133333 rg (Weather Analytics & Forecasting Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 331.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (Python, Pandas, Random Forest, Streamlit | 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 287.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.275 Tw (Collected live weather data with the OpenWeatherMap API, performed) Tj T* 0 Tw -0.013636 Tw (EDA, trained a Random Forest model to forecast temperature, and built an) Tj T* 0 Tw (interactive Streamlit dashboard.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 262.633 Tm (PUBLICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 256.39 m 546 256.39 l S
+q
+1 0 0 1 216 235.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (ERP Management System Implementation in Educational Institutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 223.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (MSW Management Journal, Vol. 36, Issue 2, 2026 \(co-author\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 193.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 1.252857 Tw (Proposes an ERP framework unifying admissions, examinations, finance) Tj T* 0 Tw (and student services on a cloud SQL database.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 168.633 Tm (CERTIFICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 162.39 m 546 162.39 l S
+q
+1 0 0 1 216 139.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Scientist Internship) Tj /F1 9.6 Tf ( \226 NetworkGeek \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 124.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Web Development Internship) Tj /F1 9.6 Tf ( \226 Codebind Technologies \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 109.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Analysis with Python) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Dec 2022) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 94.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Visualization with R) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 79.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Predictive Modeling Fundamentals I) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Apr 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 64.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Statistics 101) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2026) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.276 841.89 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.066667 0.333333 0.8 rg
+0.066667 0.333333 0.8 RG
+BT
+/F1-0 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 22 711.151 Tm
+(Portfolio) Tj
+T*
+ET
+0.5 w
+n
+22 708.09 m
+60.514 708.09 l
+S
+Q
+
+
+Q
+q 1 0 0 1 0 -32 cm 190 -0.11000000000001364 405.27599999999995 190.0 re W n
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.901961 .878431 .960784 rg
+n 0 0 190 841.89 re f*
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 801.692 Tm (CONTACT) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 794.89 m 172 794.89 l S
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 775.151 Tm (+91 7010013569) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 759.651 Tm (syedalifathi24@gmail.com) Tj T* ET
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 742.151 Tm (LinkedIn) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 739.09 m 61.69 739.09 l S
+.066667 .333333 .8 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 726.651 Tm (GitHub) Tj T* ET
+.066667 .333333 .8 RG
+.5 w
+n 22 723.59 m 54.676 723.59 l S
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 680.692 Tm (SKILLS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 673.89 m 172 673.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 654.051 Tm (Programming) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 638.551 Tm (Python, SQL, R) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 612.551 Tm (Data Analysis) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 597.051 Tm (NumPy, Pandas, Data) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 581.551 Tm (Cleaning, EDA, Visualization,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 566.051 Tm (Statistics) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 540.051 Tm (BI & Tools) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 524.551 Tm (Power BI, Tableau,) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 509.051 Tm (Excel \(Power Query & DAX\),) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 493.551 Tm (Streamlit) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 467.551 Tm (Machine Learning) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 452.051 Tm (Random Forest, Neural) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 436.551 Tm (Networks, LLMs) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 410.551 Tm (Databases) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 395.051 Tm (SQL, Cloud SQL) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 22 358.692 Tm (EDUCATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 22 351.89 m 172 351.89 l S
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 332.051 Tm (B.E. CSE \(AI & ML\)) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 316.551 Tm (AMET University, Chennai) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 301.051 Tm (Aug 2022 \226 May 2026) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 285.551 Tm (CGPA 8.73 / 10) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 259.551 Tm (HSC \(12th\) \177 77.7%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 244.051 Tm (Christ The King Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 228.551 Tm (School) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 202.551 Tm (SSLC \(10th\) \177 72.6%) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 187.051 Tm (St. Anne's Matric Hr. Sec.) Tj T* ET
+.266667 .266667 .266667 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 22 171.551 Tm (School) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 28 Tf 33.6 TL ET
+BT 1 0 0 1 216 779.986 Tm (Shakeel Navas Khan) Tj T* ET
+.168627 .478431 .470588 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 216 760.21 Tm (ASPIRING DATA ANALYST | PYTHON, SQL & R) Tj T* ET
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 725.633 Tm (PROFILE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 719.39 m 546 719.39 l S
+q
+1 0 0 1 216 641.89 cm
+q
+BT 1 0 0 1 0 60 Tm 2.21 Tw 14 TL /F1 10 Tf .266667 .266667 .266667 rg (Computer Science \(AI & ML\) graduate with an 8.73 CGPA, building a) Tj T* 0 Tw 3.472727 Tw (career in data analysis. Skilled in Python, SQL and R for cleaning,) Tj T* 0 Tw 4.21875 Tw (analysing and visualising data, with hands-on exposure to machine) Tj T* 0 Tw 4.705 Tw (learning. Completed a Data Scientist internship and co-authored a) Tj T* 0 Tw (research paper.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 616.633 Tm (EXPERIENCE) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 610.39 m 546 610.39 l S
+q
+1 0 0 1 216 589.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Scientist Intern \(Online\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 577.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (NetworkGeek | Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 533.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 3.81 Tw (Worked through Python, NumPy and Pandas for data cleaning and) Tj T* 0 Tw 5.166667 Tw (visualization, then machine learning, neural networks, transformers,) Tj T* 0 Tw (generative AI and LLMs.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 508.633 Tm (PROJECTS) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 502.39 m 546 502.39 l S
+q
+1 0 0 1 216 481.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Data Professional Survey Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 469.39 cm
+q
+.066667 .333333 .8 RG
+n 73.5909 2.0375 m 102.5325 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Power BI | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 439.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 3.813333 Tw (Built an interactive Power BI dashboard analysing salary, job roles,) Tj T* 0 Tw (programming languages and job satisfaction of 630 data professionals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 419.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Seattle Airbnb Analysis Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 407.39 cm
+q
+.066667 .333333 .8 RG
+n 69.4617 2.0375 m 98.4033 2.0375 l S
+BT 1 0 0 1 0 3.2 Tm 12.5 TL /F1 9.3 Tf .168627 .478431 .470588 rg (Tableau | 2026 | ) Tj .066667 .333333 .8 rg (GitHub) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 363.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.513333 Tw (Built a Tableau dashboard on Seattle Airbnb data \(Listings, Calendar,) Tj T* 0 Tw 2.272222 Tw (Reviews\) covering average price by bedrooms, listing counts, price by) Tj T* 0 Tw (zipcode and 2016 revenue.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 343.89 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf .133333 .133333 .133333 rg (Weather Analytics & Forecasting Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 331.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (Python, Pandas, Random Forest, Streamlit | 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 287.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 32 Tm /F1 10 Tf 14 TL 2.275 Tw (Collected live weather data with the OpenWeatherMap API, performed) Tj T* 0 Tw -0.013636 Tw (EDA, trained a Random Forest model to forecast temperature, and built an) Tj T* 0 Tw (interactive Streamlit dashboard.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 262.633 Tm (PUBLICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 256.39 m 546 256.39 l S
+q
+1 0 0 1 216 235.89 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (ERP Management System Implementation in Educational Institutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 223.39 cm
+q
+.168627 .478431 .470588 rg
+BT 1 0 0 1 0 3.2 Tm /F1 9.3 Tf 12.5 TL (MSW Management Journal, Vol. 36, Issue 2, 2026 \(co-author\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 193.89 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 18 Tm /F1 10 Tf 14 TL 1.252857 Tw (Proposes an ERP framework unifying admissions, examinations, finance) Tj T* 0 Tw (and student services on a cloud SQL database.) Tj T* ET
+Q
+Q
+.121569 .227451 .372549 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 216 168.633 Tm (CERTIFICATION) Tj T* ET
+.168627 .478431 .470588 RG
+1 w
+n 216 162.39 m 546 162.39 l S
+q
+1 0 0 1 216 139.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Scientist Internship) Tj /F1 9.6 Tf ( \226 NetworkGeek \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 124.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Web Development Internship) Tj /F1 9.6 Tf ( \226 Codebind Technologies \177 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 109.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Analysis with Python) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Dec 2022) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 94.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Data Visualization with R) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 79.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Predictive Modeling Fundamentals I) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 Apr 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 216 64.89 cm
+q
+BT 1 0 0 1 0 5.4 Tm 15 TL /F2 9.6 Tf .266667 .266667 .266667 rg (Statistics 101) Tj /F1 9.6 Tf ( \226 IBM Cognitive Class \177 May 2026) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.276 841.89 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.066667 0.333333 0.8 rg
+0.066667 0.333333 0.8 RG
+BT
+/F1-0 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 22 711.151 Tm
+(Portfolio) Tj
+T*
+ET
+0.5 w
+n
+22 708.09 m
+60.514 708.09 l
+S
+Q
+
+
+Q
+
+Q
+
+endstream
+endobj
+19 0 obj
+<<
+/Length 773
+>>
+stream
+q
+0.0 0.0 595.276 841.89 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+0.133333 0.133333 0.133333 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 216 596.89 Tm
+(Web Development Intern \050Offline\051) Tj
+T*
+ET
+0.168627 0.478431 0.470588 rg
+BT
+/F1-1 9.3 Tf
+11.16 TL
+ET
+BT
+1 0 0 1 216 584.59 Tm
+(Codebind Technologies \174 Jul 2026) Tj
+T*
+ET
+0.266667 0.266667 0.266667 rg
+BT
+/F1-1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 216 569.89 Tm
+(Gained hands\055on web development experience in an on\055site internship\056) Tj
+T*
+ET
+0.168627 0.478431 0.470588 rg
+BT
+/F1-1 9.3 Tf
+11.16 TL
+ET
+BT
+1 0 0 1 421 294.59 Tm
+( \174 ) Tj
+T*
+ET
+0.066667 0.333333 0.8 rg
+BT
+/F1-1 9.3 Tf
+11.16 TL
+ET
+BT
+1 0 0 1 428.5888 294.59 Tm
+(GitHub) Tj
+T*
+ET
+0.066667 0.333333 0.8 RG
+1 w
+n
+428.5888 293.39 m
+457.5304 293.39 l
+S
+Q
+
+endstream
+endobj
+20 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 428.5888 292.73 457.5304 303.89 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057ShakeelTheAnalyst\057weather\055analytics\055forecasting\055dashboard)
+>>
+/P 4 0 R
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000178 00000 n 
+0000000487 00000 n 
+0000010244 00000 n 
+0000010351 00000 n 
+0000010458 00000 n 
+0000010570 00000 n 
+0000010591 00000 n 
+0000010821 00000 n 
+0000011013 00000 n 
+0000011260 00000 n 
+0000011494 00000 n 
+0000011714 00000 n 
+0000011748 00000 n 
+0000011856 00000 n 
+0000011969 00000 n 
+0000080420 00000 n 
+0000081245 00000 n 
+trailer
+<<
+/Size 21
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+81506
+%%EOF
