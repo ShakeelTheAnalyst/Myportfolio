@@ -8,7 +8,7 @@ export const personalData = {
   location: "Kumbakonam / Chennai, India (Remote Worldwide)",
   email: "syedalifathi24@gmail.com",
   phone: "+91 7010013569",
-  resumeUrl: "/Resume.pdfD",
+  resumeUrl: "/Shakeel_Navas_Khan_Resume.pdf",
   socials: {
     github: "https://github.com/ShakeelTheAnalyst",
     linkedin: "https://www.linkedin.com/in/shakeel-navas-khan-094b70263/",
