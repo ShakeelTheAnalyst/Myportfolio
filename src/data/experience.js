@@ -35,7 +35,7 @@ export const publicationData = {
   journal: "MSW Management – Multidisciplinary, Scientific Work and Management Journal",
   details: "Vol. 36, Issue 2, 2026, Pages 885–889 (ISSN: 1053-7899)",
   authors: "Sivakumar Dhandapani, Arun Kumar Palanichamy, Thandra Chakritha, Bupesh SenthilKumar, Sai Rishi Seerapu, Shakeel Navaskhan, Jothimani Ponnusamy",
-  doiUrl: "https://mswmanagementj.com/",
+  doiUrl: "https://mswmanagementj.com/index.php/home/article/view/4055",
   summary: "Co-authored and published empirical research proposing a cloud-based SQL ERP architecture that unifies university admissions, examinations, finance, and student tracking with cross-platform Flutter and React Native interfaces.",
   metrics: [
     { label: "Overall Efficiency Improvement", value: "89%" },
