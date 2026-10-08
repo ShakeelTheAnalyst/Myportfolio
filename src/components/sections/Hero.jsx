@@ -79,7 +79,10 @@ export default function Hero() {
                   href={personalData.socials.github}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="p-2.5 rounded-xl bg-[#0F0C1B] border border-purple-500/20 text-purple-300 hover:text-white hover:border-purple-400 hover:bg-[#1A1430] transition-all"
+                  className="p-2.5 rounded-xl bg-[#0F0C1B] border border-purple-500/20 text-purple-300
+           transition-all duration-300 ease-out
+           hover:text-white hover:border-purple-400
+           hover:-translate-y-2 hover:scale-110 hover:shadow-purple-glow"
                   aria-label="GitHub"
                 >
                   <Github className="w-4 h-4" />
@@ -88,14 +91,20 @@ export default function Hero() {
                   href={personalData.socials.linkedin}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="p-2.5 rounded-xl bg-[#0F0C1B] border border-purple-500/20 text-purple-300 hover:text-white hover:border-purple-400 hover:bg-[#1A1430] transition-all"
+                  className="p-2.5 rounded-xl bg-[#0F0C1B] border border-purple-500/20 text-purple-300
+           transition-all duration-300 ease-out
+           hover:text-white hover:border-purple-400
+           hover:-translate-y-2 hover:scale-110 hover:shadow-purple-glow"
                   aria-label="LinkedIn"
                 >
                   <Linkedin className="w-4 h-4" />
                 </a>
                 <a
                   href={personalData.socials.email}
-                  className="p-2.5 rounded-xl bg-[#0F0C1B] border border-purple-500/20 text-purple-300 hover:text-white hover:border-purple-400 hover:bg-[#1A1430] transition-all"
+                  className="p-2.5 rounded-xl bg-[#0F0C1B] border border-purple-500/20 text-purple-300
+           transition-all duration-300 ease-out
+           hover:text-white hover:border-purple-400
+           hover:-translate-y-2 hover:scale-110 hover:shadow-purple-glow"
                   aria-label="Email"
                 >
                   <Mail className="w-4 h-4" />
