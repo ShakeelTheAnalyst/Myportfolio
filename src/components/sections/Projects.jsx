@@ -7,7 +7,7 @@ import Badge from '../ui/Badge';
 import Button from '../ui/Button';
 import { projectsData } from '../../data/projects';
 
-const CATEGORIES = ["All", "Enterprise", "Data Analytics", "Web Apps"];
+const CATEGORIES = ["All", "Enterprise", "Data Analytics", "Mini Projects"];
 
 export default function Projects() {
   const [activeCategory, setActiveCategory] = useState("All");
