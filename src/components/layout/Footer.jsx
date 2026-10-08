@@ -36,7 +36,10 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub Profile"
-              className="p-3 rounded-xl bg-[#0F0C1B] border border-purple-500/20 text-purple-300 hover:text-white hover:border-purple-400 hover:bg-[#1A1430] transition-all shadow-sm"
+              className="p-3 rounded-xl bg-[#0F0C1B] border border-purple-500/20 text-purple-300
+               transition-all duration-300 ease-out
+               hover:text-white hover:border-purple-400 hover:bg-[#1A1430]
+               hover:-translate-y-2 hover:scale-110 hover:shadow-purple-glow"
             >
               <Github className="w-4 h-4" />
             </a>
@@ -45,14 +48,20 @@ export default function Footer() {
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn Profile"
-              className="p-3 rounded-xl bg-[#0F0C1B] border border-purple-500/20 text-purple-300 hover:text-white hover:border-purple-400 hover:bg-[#1A1430] transition-all shadow-sm"
+              className="p-3 rounded-xl bg-[#0F0C1B] border border-purple-500/20 text-purple-300
+               transition-all duration-300 ease-out
+               hover:text-white hover:border-purple-400 hover:bg-[#1A1430]
+               hover:-translate-y-2 hover:scale-110 hover:shadow-purple-glow"
             >
               <Linkedin className="w-4 h-4" />
             </a>
             <a
               href={personalData.socials.email}
               aria-label="Send Email"
-              className="p-3 rounded-xl bg-[#0F0C1B] border border-purple-500/20 text-purple-300 hover:text-white hover:border-purple-400 hover:bg-[#1A1430] transition-all shadow-sm"
+              className="p-3 rounded-xl bg-[#0F0C1B] border border-purple-500/20 text-purple-300
+               transition-all duration-300 ease-out
+               hover:text-white hover:border-purple-400 hover:bg-[#1A1430]
+               hover:-translate-y-2 hover:scale-110 hover:shadow-purple-glow"
             >
               <Mail className="w-4 h-4" />
             </a>
