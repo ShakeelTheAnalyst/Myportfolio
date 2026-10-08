@@ -5,7 +5,7 @@ A modern, high-performance developer and data analytics portfolio designed with 
 ---
 
 ## 🚀 Live Demo & Profiles
-* **Portfolio Live Demo:** [https://sivanesan-myportfolio.vercel.app/](https://sivanesan-myportfolio.vercel.app/) *(or your deployed Vercel URL)*
+* **Portfolio Live Demo:** [https://sivanesan-myportfolio.vercel.app/](https://shakeel-navaskhan.vercel.app).*(or your deployed Vercel URL)*
 * **GitHub Profile:** [https://github.com/ShakeelTheAnalyst](https://github.com/ShakeelTheAnalyst)
 * **LinkedIn Profile:** [(https://www.linkedin.com/in/shakeel-navas-khan-094b70263/)](https://www.linkedin.com/in/shakeel-navas-khan-094b70263/)
 * **Email:** [syedalifathi24@gmail.com](mailto:syedalifathi24@gmail.com)
