@@ -19,7 +19,7 @@ export const projectsData = [
     ],
     gradient: "from-purple-600/30 via-violet-600/15 to-indigo-600/30"
   },
-   {
+  {
     id: "weather-analytics-dashboard",
     title: "Real-Time Weather Analytics & Forecasting Dashboard",
     subtitle: "End-to-end data pipeline with OpenWeatherMap API & Random Forest predictive modeling",
@@ -48,5 +48,43 @@ export const projectsData = [
       "Power BI Star Schema Model"
     ],
     gradient: "from-fuchsia-600/30 via-purple-600/15 to-pink-600/30"
+  },
+  {
+    id: "data-professional-survey-dashboard",
+    title: "Data Professional Survey Dashboard",
+    subtitle: "Interactive dashboard analyzing data professional survey responses",
+    category: "Mini Projects",
+    description: "An interactive dashboard that analyzes survey responses from data professionals, covering job roles, salaries, programming language preferences, and career satisfaction.",
+    problemSolution: "Turned raw survey responses into clear visuals so trends in roles, salaries, and skills can be compared at a glance.",
+    techStack: ["Tableau", "Data Cleaning", "Data Visualization"],
+    liveDemoUrl: "https://github.com/ShakeelTheAnalyst/Data-Professional-Survey-Dashboard/blob/main/dashboard.png",
+    githubUrl: "https://github.com/ShakeelTheAnalyst/Data-Professional-Survey-Dashboard",
+    featured: false,
+    highlights: [
+      "Survey Data Cleaning",
+      "Salary & Role Analysis",
+      "Interactive Filters",
+      "Dashboard Storytelling"
+    ],
+    gradient: "from-purple-600/30 via-indigo-600/15 to-blue-600/30"
+  },
+  {
+    id: "airbnb-tableau-dashboard",
+    title: "Airbnb Tableau Dashboard",
+    subtitle: "Seattle Airbnb listings, pricing and review insights",
+    category: "Mini Projects",
+    description: "A Tableau dashboard built on Seattle Airbnb data (Listings, Calendar, and Reviews) that explores pricing, availability, neighborhoods, and guest review patterns.",
+    problemSolution: "Combined three Airbnb datasets into one dashboard so hosts and analysts can see pricing, demand, and review trends in one place.",
+    techStack: ["Tableau", "Data Analysis", "Data Visualization"],
+    liveDemoUrl: "https://github.com/ShakeelTheAnalyst/Airbnb-Tableau-dashboard/blob/main/Dashboard.png",
+    githubUrl: "https://github.com/ShakeelTheAnalyst/Airbnb-Tableau-dashboard",
+    featured: false,
+    highlights: [
+      "Listings, Calendar & Reviews",
+      "Price & Availability Trends",
+      "Neighborhood Analysis",
+      "Interactive Tableau Filters"
+    ],
+    gradient: "from-pink-600/30 via-fuchsia-600/15 to-purple-600/30"
   }
 ];
