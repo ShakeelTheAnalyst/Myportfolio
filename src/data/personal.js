@@ -11,7 +11,7 @@ export const personalData = {
   resumeUrl: "/Shakeel_Navas_Khan_Resume.pdf",
   socials: {
     github: "https://github.com/ShakeelTheAnalyst",
-    linkedin: "https://www.linkedin.com/in/shakeel-navas-khan-094b70263/",
+    linkedin: "https://www.linkedin.com/in/shakeel-navaskhan/?isSelfProfile=true",
     email: "mailto:syedalifathi24@gmail.com",
   },
   stats: [
